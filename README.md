@@ -22,7 +22,7 @@ for the June 6-7, 2013 boot camp at the Simon Fraser University.
 | 11:30 - 12:30 |	 Lunch                               |
 | 12:30 - 2:30  |  Version control with git            |
 | 2:30 - 2:45   |  Coffee                              |
-| 2:45 - 4:30 	|  More version control with git |
+| 2:45 - 4:30 	|  Using github |
 
 
 
