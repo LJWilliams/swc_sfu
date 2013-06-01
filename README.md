@@ -30,7 +30,7 @@ for the June 6-7, 2013 boot camp at the Simon Fraser University.
 
 | Time          |  Activity                            |
 |---------------|--------------------------------------|
-| 8:30 - 10:30  |  Functions in Python      |
+| 8:30 - 10:30  |  Functions       |
 | 10:30 - 10:45 |	 Coffee                              |
 | 10:45 - 12:00 |  Python     |
 | 12:00 - 1:00  |	 Lunch                               |
